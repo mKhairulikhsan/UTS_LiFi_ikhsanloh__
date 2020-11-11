@@ -46,11 +46,11 @@ Artinya, teknologi ini dapat bekerja apabila masing-masing perangkat yang dimili
 Contoh sederhana kerja Light Fidelity yang dapat kita rasakan saat ini adalah cahaya yang terdapat pada remote TV (cahaya infra-merah) yang mampu melakukan transmisi data lebih dari 1000 bps.
 
 Sedangkan lampu LED (Light Emitting Diodes) yang digunakan saat ini telah mengalami perkembangan dengan kemampuan transmisi data yang stabil dan terlihat seperti cahaya lampu pada umumnya.
-![Image](src)
-![Image](src)
+![Image](lifi1)
+![Image](lifi2)
 
 ## 4. Perbedaan LiFi dan WiFi
-![Image](src)
+![Image](wifi)
 LiFi dan WiFi merupakan dua teknologi nirkabel (tanpa kabel) dua arah yang memiliki kecepatan tinggi.
 
 Namun keduanya memiliki perbedaan pada media penghantarnya yaitu berupa gelombang cahaya dan gelombang radio.
