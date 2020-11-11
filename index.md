@@ -41,13 +41,14 @@ Proyek lain yang dimilikinya masih dalam tahap pengembangan dan uji coba pada ru
 ## 3. Cara Kerja LiFi
 Cara kerja teknologi ini adalah menggunakan sumber cahaya yang cukup seperti LED (Light Emitting Diodes) ataupun Light Sensor, kemudian ujung perangkat lain akan melakukan deteksi serta mengartikannya sebagai biner yang sama kemudian akan dapat dibaca oleh komputer.
 
-Artinya, teknologi ini dapat bekerja apabila masing-masing perangkat yang dimiliki dapat terhubung dan saling berpasangan untuk melakukan kegiatan seperti menstransmisikan data.
+![Image](lifi1.png)
+
+artinya, teknologi ini dapat bekerja apabila masing-masing perangkat yang dimiliki dapat terhubung dan saling berpasangan untuk melakukan kegiatan seperti menstransmisikan data.
 
 Contoh sederhana kerja Light Fidelity yang dapat kita rasakan saat ini adalah cahaya yang terdapat pada remote TV (cahaya infra-merah) yang mampu melakukan transmisi data lebih dari 1000 bps.
 
 Sedangkan lampu LED (Light Emitting Diodes) yang digunakan saat ini telah mengalami perkembangan dengan kemampuan transmisi data yang stabil dan terlihat seperti cahaya lampu pada umumnya.
 
-![Image](lifi1.png)
 ![Image](lifi2.png)
 
 ## 4. Perbedaan LiFi dan WiFi
